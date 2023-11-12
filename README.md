@@ -2,7 +2,7 @@
 
 - 👨‍🔬 Olá, eu sou @carloscz17! Seja bem vindo ao meu perfil!
 - 💻 Em busca da minha primeira vaga na área!
-- 🏐 Gosto de práticar alguns esportes, como: futebol, futsal, ciclismo, etc...
+- 🏐 Gosto de praticar alguns esportes, como: futebol, futsal, ciclismo, etc...
 - 📖 Ao longo da minha caminhada acadêmica venho me desafiando fazendo alguns projetos para melhor aprendizado.
 
 <div align="center">
